@@ -9,6 +9,7 @@ This is a **full-stack solution** that integrates **semantic vector search, RAG 
 
 ## 🎬 Project Demo  
 ▶️ **YouTube Video**: (https://www.youtube.com/watch?v=5ny5-vX5kbo)  
+<img width="1854" height="1590" alt="Automatic Question Paper Generator_0" src="https://github.com/user-attachments/assets/8f788c32-bb08-41aa-b135-498e73e0b0b0" />
 
 ---
 
@@ -63,4 +64,15 @@ This approach ensures **scalability, consistency, and automation** in **exam pap
 - **Paper Builder** → Shuffle, format, and export  
 - **Admin Panel (Optional)** → Manage users & files  
 
+---
+
+## 📞 Contact / Get in Touch (Get Source Code ) 
+
+If you are interested in this **Automatic Question Paper Generator Machine Learning Project** or need guidance for your **Final Year Project**, you can reach out to us easily.  
+We provide **Source Code, Project Report, Synopsis, PPT, Documentation, and Video Demonstration** for students.  
+
+📩 **Email:** [codeassists@gmail.com](mailto:codeassists@gmail.com)  
+📱 **Phone / WhatsApp:** [+91-8470010001](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20got%20your%20contact%20from%20GitHub%20and%20want%20to%20know%20about%20a%20project) 👉 [Chat Now](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20got%20your%20contact%20from%20GitHub%20and%20want%20to%20know%20about%20a%20project)    
+🌐 **Websites:**   [CodeAssists](http://codeassists.com/), [FreeProjectz](https://www.freeprojectz.com/)  
+📌 **Project Link:** (https://www.freeprojectz.com/machine-learning-projects-major-project/automatic-question-paper-generator-ai-powered-exam-paper)
 ---
