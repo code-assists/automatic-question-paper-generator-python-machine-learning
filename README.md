@@ -9,6 +9,7 @@ This is a **full-stack solution** that integrates **semantic vector search, RAG 
 
 ## 🎬 Project Demo  
 ▶️ **YouTube Video**: (https://www.youtube.com/watch?v=5ny5-vX5kbo)  
+
 <img width="1854" height="1590" alt="Automatic Question Paper Generator_0" src="https://github.com/user-attachments/assets/8f788c32-bb08-41aa-b135-498e73e0b0b0" />
 
 ---
