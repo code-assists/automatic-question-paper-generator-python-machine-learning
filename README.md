@@ -1,4 +1,4 @@
-# 📝 Automatic Question Paper Generator Machine Learning Project | AI + RAG + FastAPI + ReactJS
+# 📝 Automatic Question Paper Generator Machine Learning Python Project | AI + RAG + FastAPI + ReactJS
 
 **Automatic Question Paper Generator** built using **Python FastAPI, LangChain (RAG), LLMs, and ReactJS**.  
 Upload a **course PDF** and instantly generate **Single Choice, Multiple Choice (MCQ), and Subjective** questions.  
